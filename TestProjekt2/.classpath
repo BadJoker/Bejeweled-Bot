@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/BASF/Workspace/targetPlatform/plugins/org.eclipse.jface_3.4.0.200903051335-eclisopatch.jar"/>
+	<classpathentry kind="lib" path="D:/BASF/Workspace/targetPlatform/plugins/org.eclipse.swt.win32.win32.x86_3.4.0.v3448f.jar"/>
+	<classpathentry kind="lib" path="D:/BASF/Workspace/targetPlatform/plugins/org.eclipse.swt_3.4.0.v3448f.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
