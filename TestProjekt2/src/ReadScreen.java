@@ -24,7 +24,6 @@ public class ReadScreen {
     static final int redMulti1 = -1896418;
     static final int redMulti3 = -1306594;
     static final int redMulti4 = -5567466;
-    //static final int redMulti5 = -67804;
     
     static final int blue = -15626242;
     static final int bluefire = -15429377;
